@@ -5,3 +5,9 @@
 .least-enjoyed {
   color: red;
 }
+
+.love {
+  color: pink;
+  font-style: italic;
+  font-size:large;
+}
