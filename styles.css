@@ -26,4 +26,9 @@
   float: left;
 }
 
-.column {}
+.column {width: 650px;
+float:inline-start;
+margin: 10px;
+padding-left: 200px;
+font-size: 23px;
+}
