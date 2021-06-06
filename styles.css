@@ -1,9 +1,17 @@
 .enjoyed {
   color: green;
+  margin: 12px;
+  border: 2px solid red;
+  padding: 4px;
+  background-color:antiquewhite;
 }
 
 .least-enjoyed {
   color: red;
+  margin: 12px;
+  border: 2px solid red;
+  padding: 4px;
+  background-color:antiquewhite;
 }
 
 .love {
@@ -11,3 +19,11 @@
   font-style: italic;
   font-size:large;
 }
+
+.selfie {
+  width: 200px;
+  height: 300px;
+  float: left;
+}
+
+.column {}
