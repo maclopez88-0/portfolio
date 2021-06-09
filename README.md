@@ -1,6 +1,7 @@
 # Cesar's Portfolio #
 _By Cesar Lopez_
 A site showcasing what we have learned in HTML and CSS.
+[Click here](https://maclopez88-0.github.io/portfolio) to see my portfolio project!
 
 ## Technologies Used ##
 
@@ -25,5 +26,3 @@ This site will demonstrate the skills we have learned thus far at Epicodus. It w
 * MIT
 
 ## Contact Information ##
-
-[Click here](lopez.cesar.aug@gmail.com) for my email.
