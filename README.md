@@ -26,3 +26,4 @@ This site will demonstrate the skills we have learned thus far at Epicodus. It w
 * MIT
 
 ## Contact Information ##
+You can contact me at: Lopez.cesar.aug@gmail.com
